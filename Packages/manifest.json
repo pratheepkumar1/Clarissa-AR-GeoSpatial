@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.cesium.unity": "file:/Users/pratheepkumarc/Downloads/com.cesium.unity-1.4.0.tgz",
+    "com.cesium.unity": "file:../Assets/Dependencies/com.cesium.unity-1.4.0.tgz",
     "com.google.ar.core.arfoundation.extensions": "https://github.com/google-ar/arcore-unity-extensions.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.collab-proxy": "1.15.17",
