@@ -8,9 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/GeoSpatialScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SceneForDebug_Gary.unity
     guid: 08d81d37d6dc644c5bdc4d5f85a20709
+  - enabled: 0
+    path: Assets/Scenes/GeoSpatialSceneforTest.unity
+    guid: 0c552f89535244889bc5e217f2e440be
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 574ead9fa40564987a5afd0b5f543814
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c1e7ab71c1ba14654ad1913b508e42b5,
       type: 2}
