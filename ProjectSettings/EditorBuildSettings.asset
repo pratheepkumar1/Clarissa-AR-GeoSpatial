@@ -14,9 +14,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/GeoSpatialSceneforTest.unity
     guid: 0c552f89535244889bc5e217f2e440be
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HomeScreen.unity
     guid: 574ead9fa40564987a5afd0b5f543814
+  - enabled: 1
+    path: Assets/Scenes/ARDemoSceneforLighting.unity
+    guid: 0ac1698cc19b34d5381d169bce41ff21
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c1e7ab71c1ba14654ad1913b508e42b5,
       type: 2}
